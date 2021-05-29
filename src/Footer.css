@@ -1,0 +1,24 @@
+.main__footer{
+    background-color: #131921;
+    color: white;
+    padding-top:3em ;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.main__footerList{
+    list-style: none;
+    color: white !important;
+}
+.main__footerList > li > a{
+    color: white;
+    font-size: small;
+    padding-left: 0px;
+}
+h4{
+    font-size: medium;
+}
+.col-sm{
+    text-align: center;
+}
